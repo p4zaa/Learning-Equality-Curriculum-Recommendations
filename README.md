@@ -1,2 +1,3 @@
 # Learning-Equality-Curriculum-Recommendations
-Enhance learning by matching K-12 content to target topics
+> Enhance learning by matching K-12 content to target topics.<br/>
+This is a [Kaggle competition](https://www.kaggle.com/competitions/learning-equality-curriculum-recommendations/overview) hosted by The Learning Agency Lab <br/>
