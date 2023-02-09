@@ -11,7 +11,7 @@ This is a [Kaggle competition](https://www.kaggle.com/competitions/learning-equa
 ## Goal of the Competition
 The goal of this competition is to streamline the process of matching educational content to specific topics in a curriculum. You will develop an accurate and efficient model trained on a library of K-12 educational materials that have been organized into a variety of topic taxonomies. These materials are in diverse languages, and cover a wide range of topics, particularly in STEM (Science, Technology, Engineering, and Mathematics).
 
-## Current workflow diagram
+## Current Workflow Diagram
 <p align='left'>
   <img src='https://drive.google.com/uc?export=view&id=1OtLFZnO0fia-bKTjYxb8E2JASnQ4QBmf' width='50%' />
 </p>
